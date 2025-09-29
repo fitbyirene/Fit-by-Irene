@@ -4,7 +4,7 @@
     <p>Personal Training & Wellness Coaching</p>
 </header>
 <section id="about">
-    <h2>Chi sono</h2>
+    <h2>La mia storia</h2>
     <p>La danza è stata il mio primo amore.
 Ma, insieme a lei, è arrivata anche una gabbia fatta di deficit calorico, di sacrifici estremi e di quella voce che non smetteva di ripetermi che non ero mai abbastanza.
 
