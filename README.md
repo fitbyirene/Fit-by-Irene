@@ -26,7 +26,7 @@ E questo è solo l’inizio.</p>
     <h2>Contatti</h2>
     <p>email: <a href="mailto:ireneprinci.pt@gmail.com">ireneprinci.pt@gmail.com</a></p>
     <p>Instagram: <a href="https://www.instagram.com/princi.irene?igsh=MTg2dDFldmYxanRvbg%3D%3D&utm_source=qr" target="_blank">@princi.irene</a></p>
-    <p>tel.:<a class="button" href="https://wa.me/3421844083">342 1844083</a>
+    <p>tel.:<a class="button" href="https://wa.me/3421844083"> 342 1844083</a>
 </section>
 
 <footer>
